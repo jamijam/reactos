@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://reactos.org/wiki/images/0/02/ReactOS_logo.png">
+  <img src="https://reactos.org/wiki/images/0/02/ReactOS_logo.png">1
 </p>
 
 ---
